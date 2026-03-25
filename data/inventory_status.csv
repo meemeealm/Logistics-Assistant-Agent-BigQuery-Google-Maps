@@ -1,0 +1,14 @@
+hub_id,hub_name,sku_id,item_name,current_qty,safety_stock,lat,lng
+HUB-001,Chicago_North,SKU-402,Medical_Oxygen,12,50,41.8781,-87.6298
+HUB-002,Chicago_South,SKU-402,Medical_Oxygen,85,50,41.7370,-87.6053
+HUB-003,Austin_Central,SKU-105,Li-Ion_Batteries,5,20,30.2672,-97.7431
+HUB-004,Austin_North,SKU-105,Li-Ion_Batteries,45,20,30.3913,-97.7273
+HUB-005,LA_Metro_East,SKU-909,Sourdough_Starter_Ind,2,15,34.0522,-118.2437
+HUB-006,Chicago_West,SKU-402,Medical_Oxygen,30,50,41.8810,-87.6742
+HUB-007,Chicago_East,SKU-402,Medical_Oxygen,60,50,41.8900,-87.6000
+HUB-008,Austin_South,SKU-105,Li-Ion_Batteries,10,20,30.2000,-97.7500
+HUB-009,Austin_East,SKU-105,Li-Ion_Batteries,25,20,30.2700,-97.7000
+HUB-010,LA_Metro_West,SKU-909,Sourdough_Starter_Ind,18,15,34.0400,-118.3000
+HUB-011,LA_Metro_North,SKU-909,Sourdough_Starter_Ind,8,15,34.1000,-118.2000
+HUB-012,NYC_Manhattan,SKU-777,Insulin_Kits,40,30,40.7831,-73.9712
+HUB-013,NYC_Brooklyn,SKU-777,Insulin_Kits,20,30,40.6782,-73.9442
