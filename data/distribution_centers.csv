@@ -1,0 +1,8 @@
+dc_id,dc_name,lat,lng,avail_pallets,operating_hours
+DC-ALPHA,Midwest_Regional_DC,41.9248,-87.7719,500,24/7
+DC-BRAVO,South_TX_Logistics,30.1588,-97.7711,1200,06:00-22:00
+DC-CHARLIE,West_Coast_Primary,34.0407,-118.2468,900,24/7
+DC-DELTA,Northeast_Distribution,40.7128,-74.0060,750,24/7
+DC-ECHO,Florida_Supply_Hub,25.7617,-80.1918,650,05:00-23:00
+DC-FOXTROT,Pacific_NW_DC,47.6062,-122.3321,800,24/7
+DC-GOLF,Mountain_Region_DC,39.7392,-104.9903,550,06:00-20:00
